@@ -1,8 +1,9 @@
 There are two types of component:
 
-Function Component.
-Class Component.
- 
+- Function Component.
+- Class Component.
+
+Learn More - https://codersdaily.in/courses/reactjs/react-components
 
 1. Function Component
 
